@@ -89,7 +89,8 @@ var myFavoriteNumbers = [4, 8, 12, 16, 20, 24];
 */
 
 //Code Here
-// var someNum = myFavoriteNumbers[4]
+var someNum = myFavoriteNumbers[4];
+console.log(someNum);
 
 ////////// PROBLEM 7 //////////
 
