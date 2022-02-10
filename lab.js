@@ -14,8 +14,8 @@ console.log(newArray);
 /*
   Remove the last item from the 'arr' array and store it in a variable named 'lastItemRemoved'. Console.log the array to verify you no longer have the last item.
 */
-// const remoteLastItem = arr.pop(arr.length - 1);
-// console.log(`Last item remove: ${remoteLastItem}`);
+const remoteLastItem = arr.pop(arr.length - 1);
+console.log(`Last item remove: ${remoteLastItem}`);
 
 //Code Here
 
